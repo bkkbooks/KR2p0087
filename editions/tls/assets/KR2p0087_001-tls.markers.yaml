@@ -58,6 +58,7 @@ markers:
   - {type: punctuation, offset: 41, content: '[', id: KR2p0087_tls_001-bkkpn37}
   - {type: punctuation, offset: 41, content: ']', id: KR2p0087_tls_001-bkkpn38}
   - {type: punctuation, offset: 42, content: (, id: KR2p0087_tls_001-bkkpn39}
+  - {type: voice, offset: 42, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 43, content: '?', id: KR2p0087_tls_001-bkkpn40}
   - {type: punctuation, offset: 43, content: ), id: KR2p0087_tls_001-bkkpn41}
   - {type: punctuation, offset: 44, content: ',', id: KR2p0087_tls_001-bkkpn42}
@@ -65,9 +66,11 @@ markers:
   - {type: punctuation, offset: 47, content: ',', id: KR2p0087_tls_001-bkkpn43}
   - {type: 'tls:seg', offset: 47, content: '', id: KR2p0087_tls_001-2a.3}
   - {type: punctuation, offset: 50, content: (, id: KR2p0087_tls_001-bkkpn44}
+  - {type: voice, offset: 50, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 51, content: '?', id: KR2p0087_tls_001-bkkpn45}
   - {type: punctuation, offset: 51, content: ), id: KR2p0087_tls_001-bkkpn46}
   - {type: punctuation, offset: 53, content: (, id: KR2p0087_tls_001-bkkpn47}
+  - {type: voice, offset: 53, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 54, content: '?', id: KR2p0087_tls_001-bkkpn48}
   - {type: punctuation, offset: 54, content: ), id: KR2p0087_tls_001-bkkpn49}
   - {type: 'tls:seg', offset: 55, content: '', id: KR2p0087_tls_001-2a.4}
@@ -212,12 +215,14 @@ markers:
   - {type: punctuation, offset: 223, content: ']', id: KR2p0087_tls_001-bkkpn138}
   - {type: 'tls:seg', offset: 223, content: '', id: KR2p0087_tls_001-6a.6}
   - {type: punctuation, offset: 225, content: (, id: KR2p0087_tls_001-bkkpn139}
+  - {type: voice, offset: 225, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 227, content: '?', id: KR2p0087_tls_001-bkkpn140}
   - {type: punctuation, offset: 227, content: ), id: KR2p0087_tls_001-bkkpn141}
   - {type: 'tls:seg', offset: 227, content: '', id: KR2p0087_tls_001-6a.7}
   - {type: punctuation, offset: 228, content: (, id: KR2p0087_tls_001-bkkpn142}
+  - {type: voice, offset: 228, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 229, content: ), id: KR2p0087_tls_001-bkkpn143}
   - {type: punctuation, offset: 230, content: ',', id: KR2p0087_tls_001-bkkpn144}
   - {type: xml-element, offset: 230, content: '', id: KR2p0087_tls_001-bkkxmlele12, name: p, role: close, attrs: {source: 'SHANGBO.SHILIUZIWEN 9.59.6 (STRIPS 6.31 strip 25, 5, 4) MACHENGYUAN 6: 223, 207'}}
   back: []
-hash: sha256:aa3a63fa9d65477b3e02a42f9e73a6662478a3f8bfe969d083ce959ca5bb1b28
+hash: sha256:29fbfe94eacedc11845ea47f5794ef0daf36a0c52a85995bcb2f83f86b7428ce
